@@ -1,0 +1,13 @@
+{
+  "app": "B.Line POP",
+  "platform": "android",
+  "package_name": "com.judmgame.blinepop",
+  "latest_version": "1.1.0",
+  "minimum_version": "1.1.0",
+  "force_update": true,
+  "play_url": "https://play.google.com/store/apps/details?id=com.judmgame.blinepop",
+  "message": {
+    "en": "A new version of B.Line POP is available. Please update to continue playing.",
+    "ko": "B.Line POP의 새 버전이 있습니다. 계속 플레이하려면 업데이트해 주세요."
+  }
+}
