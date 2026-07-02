@@ -1,0 +1,10 @@
+{
+  "latest_version_code": 10,
+  "latest_version_name": "1.1.1",
+  "force_update": false,
+  "title": "UPDATE AVAILABLE",
+  "message": "A new version is available. Please update to the latest version for a more stable experience.",
+  "title_ko": "업데이트 안내",
+  "message_ko": "새 버전이 있습니다. 더 안정적인 플레이를 위해 최신 버전으로 업데이트해 주세요.",
+  "store_url": "https://play.google.com/store/apps/details?id=com.judmgame.physicalnumber37"
+}
